@@ -50,8 +50,26 @@ SpriteAtlas:
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites: []
-  m_PackedSpriteNamesToIndex: []
+  m_PackedSprites:
+  - {fileID: -531744112, guid: 26619ae6fb80b29428ba62301f372958, type: 3}
+  - {fileID: -1565615048, guid: 26619ae6fb80b29428ba62301f372958, type: 3}
+  - {fileID: 229165647, guid: 26619ae6fb80b29428ba62301f372958, type: 3}
+  - {fileID: 1492965809, guid: 26619ae6fb80b29428ba62301f372958, type: 3}
+  - {fileID: -1598564609, guid: 5c517b2e4e35a1b47bdce3ecf8702949, type: 3}
+  - {fileID: 923741748, guid: 5c517b2e4e35a1b47bdce3ecf8702949, type: 3}
+  - {fileID: -891238748, guid: 5c517b2e4e35a1b47bdce3ecf8702949, type: 3}
+  - {fileID: -718226597, guid: 5c517b2e4e35a1b47bdce3ecf8702949, type: 3}
+  - {fileID: -1345494844, guid: 5c517b2e4e35a1b47bdce3ecf8702949, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tileset128x128_2
+  - Tileset128x128_3
+  - Tileset128x128_0
+  - Tileset128x128_1
+  - Tileset32x32_0
+  - Tileset32x32_1
+  - Tileset32x32_2
+  - Tileset32x32_3
+  - Tileset32x32_4
   m_RenderDataMap: {}
   m_Tag: AtlasNoFilter
   m_IsVariant: 0

@@ -43,7 +43,7 @@ public class CameraController : MonoBehaviour
 
 
 
-    void LateUpdate()
+    void Update()
     {
 
         // Получаем текущую и последнюю позицию игрока по осям в каждом апдейте.
